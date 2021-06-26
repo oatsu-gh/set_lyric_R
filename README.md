@@ -2,6 +2,8 @@
 
 選択範囲をすっぴん休符にするUTAUプラグイン
 
+**set_lyric_R has been moved to [utau_plugins](https://github.com/oatsu-gh/utau_plugins)**
+
 ## 用途
 
 ハモリに作るときにどうぞ
